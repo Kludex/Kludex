@@ -6,7 +6,7 @@ My name is Marcelo, but you can call me "Marceloooooooo" in French, "Marce" in S
 
 I'm a Software Engineer, and I'm currently working at [reciTAL](https://recital.ai/). 
 
-I've been working mostly on projects related to the [FastAPI](https://fastapi.tiangolo.com/pt/fastapi-people/#experts) ecosystem, some of them are:
+On my free time I've been working mostly on projects related to [FastAPI](https://fastapi.tiangolo.com/pt/fastapi-people/#experts):
 - [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
 - [FastAPI Responses](https://github.com/Kludex/fastapi-responses) - Find HTTPExceptions and turn them into documented responses! :tada:
 - [FastAPI Health](https://github.com/Kludex/fastapi-health) - Implement the Health Check API pattern on your FastAPI application! :rocket:
