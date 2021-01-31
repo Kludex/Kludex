@@ -13,7 +13,7 @@ On my free time I've been working mostly on projects related to [FastAPI](https:
 - [FastAPI Packages](https://github.com/Kludex/fastapi-packages) - List of FastAPI packages weekly automatically updated! :tada:
 - [FastAPI Docker Debug](https://github.com/Kludex/fastapi-docker-debug) - Need to debug your FastAPI application with Docker? Don't worry! :sunglasses:
 - [FastAPI Skaffold Debug](https://github.com/Kludex/fastapi-skaffold-debug) - Need to debug your FastAPI application with Skaffold? Don't worry! :sunglasses:
-- [Manage FastAPI](https://github.com/Kludex/manage-fastapi) - :rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy.
+- [Manage FastAPI](https://github.com/ycd/manage-fastapi) - :rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy.
 - [Server Ping](https://github.com/Kludex/serverping) - FastAPI Application to ping a server and send its status via Slack! :tada:
 
 I've also some different types of projects here:
