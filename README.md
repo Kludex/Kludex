@@ -8,7 +8,8 @@ I'm a Software Engineer, and I'm currently working at [reciTAL](https://recital.
 
 On my free time I've been working mostly on projects related to [FastAPI](https://fastapi.tiangolo.com/pt/fastapi-people/#experts):
 - [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
-- [FastAPI Template](https://github.com/Kludex/fastapi-template) - Get ready to work with the best FastAPI template!
+- [FastAPI Microservices](https://github.com/Kludex/fastapi-microservices) - Fully Python async FastAPI project! :rocket:
+- [FastAPI Template](https://github.com/Kludex/fastapi-template) - Get ready to work with the best FastAPI template! ~ WIP
 - [FastAPI Responses](https://github.com/Kludex/fastapi-responses) - Find HTTPExceptions and turn them into documented responses! :tada:
 - [FastAPI Health](https://github.com/Kludex/fastapi-health) - Implement the Health Check API pattern on your FastAPI application! :rocket:
 - [FastAPI Packages](https://github.com/Kludex/fastapi-packages) - List of FastAPI packages weekly automatically updated! :tada:
