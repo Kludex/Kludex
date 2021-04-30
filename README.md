@@ -19,6 +19,7 @@ On my free time I've been working mostly on projects related to [FastAPI](https:
 - [Server Ping](https://github.com/Kludex/serverping) - FastAPI Application to ping a server and send its status via Slack! :tada:
 
 I've also some different types of projects here:
+- [Awesome Pydantic](https://github.com/Kludex/rsort) - A curated list of awesome things related to Pydantic! 🌪️
 - [rsort](https://github.com/Kludex/rsort) - Sort Python requirements with ease! :tada: ~ Highly inspired on sort-requirements 🤓
 - [Simple Timing](https://github.com/Kludex/simpletiming) - Time your functions in a smart way! ~ Highly Inspired on codetiming :tada:
 - [Python Template](https://github.com/Kludex/python-template) - A template for Python packages that makes you go from :hot_face: to :sunglasses:!
