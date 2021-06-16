@@ -4,7 +4,7 @@ Welcome to my profile! :smile:
 
 My name is Marcelo, but you can call me "Marceloooooooo" in French, "Marce" in Spanish, and "MarTCHHHelo" in Italiano.
 
-I'm a Software Engineer, and I'm currently working at [Explosion](https://explosion.ai/). 
+I'm a Software Engineer, currently working at [Explosion](https://explosion.ai/) and I'm also a member of [encode](https://www.encode.io/).
 
 On my free time I've been working mostly on projects related to [FastAPI](https://fastapi.tiangolo.com/pt/fastapi-people/#experts):
 - [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
