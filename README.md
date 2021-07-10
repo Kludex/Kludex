@@ -20,7 +20,7 @@ I have also many projects related to [FastAPI](https://fastapi.tiangolo.com/fast
 - [Manage FastAPI](https://github.com/ycd/manage-fastapi) - :rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy.
 - [Server Ping](https://github.com/Kludex/serverping) - FastAPI Application to ping a server and send its status via Slack! :tada:
 
-I've also some different types of projects here:
+There are some different types of projects here, as well:
 - [Awesome Pydantic](https://github.com/Kludex/awesome-pydantic) - A curated list of awesome things related to Pydantic! 🌪️
 - [rsort](https://github.com/Kludex/rsort) - Sort Python requirements with ease! :tada: ~ Highly inspired on sort-requirements 🤓
 - [Simple Timing](https://github.com/Kludex/simpletiming) - Time your functions in a smart way! ~ Highly Inspired on codetiming :tada:
