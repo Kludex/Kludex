@@ -2,11 +2,13 @@
 
 Welcome to my profile! :smile:
 
-My name is Marcelo, but you can call me "Marceloooooooo" in French, "Marce" in Spanish, and "MarTCHHHelo" in Italiano.
+My name is Marcelo, but you can call me "Marceloooooooo" in French, "Marce" in Spanish, and "MarTCHHHelo" in Italiano.<br/>
+But I'm originally from Brazil! 😎✌️ Which in Portuguese should be "Marrrrrrrcelo" (at least with my pronunciation 😅). 
 
-I'm a Software Engineer, currently working at [Explosion](https://explosion.ai/) and I'm also a member of [encode](https://www.encode.io/).
+I'm a Software Engineer, currently working at [Explosion](https://explosion.ai/). 💥 <br/>
+I'm also a member of [encode](https://www.encode.io/), which I help mainly maintaining [uvicorn](https://github.com/encode/uvicorn).
 
-On my free time I've been working mostly on projects related to [FastAPI](https://fastapi.tiangolo.com/pt/fastapi-people/#experts):
+I have also many projects related to [FastAPI](https://fastapi.tiangolo.com/fastapi-people/#experts):
 - [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
 - [FastAPI Microservices](https://github.com/Kludex/fastapi-microservices) - Fully Python async FastAPI project! :rocket:
 - [FastAPI Template](https://github.com/Kludex/fastapi-template) - Get ready to work with the best FastAPI template! ~ WIP
@@ -25,5 +27,8 @@ I've also some different types of projects here:
 - [Python Template](https://github.com/Kludex/python-template) - A template for Python packages that makes you go from :hot_face: to :sunglasses:!
 - [Update File](https://github.com/Kludex/update-file) - GitHub Action to update files based on a cron & custom script! :smile:
 
+Oh! And if you use `VSCode` and `FastAPI`, you might have already used some plugins that I have worked on:
+- [FastAPI debugger](https://github.com/microsoft/vscode-python/pull/14606)
+- [FastAPI docker](https://github.com/microsoft/vscode-docker/pull/2740)
 
 ![Marcelo Trylesinski's github stats](https://github-readme-stats.vercel.app/api?username=Kludex&show_icons=true&theme=merko)
