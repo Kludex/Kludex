@@ -3,7 +3,7 @@
 Welcome to my profile! :smile:
 
 My name is Marcelo, but you can call me "Marceloooooooo" in French, "Marce" in Spanish, and "MarTCHHHelo" in Italiano.<br/>
-But I'm originally from Brazil! 😎✌️ Which in Portuguese should be "Marrrrrrrcelo" (at least with my pronunciation 😅). 
+But I'm originally from Brazil! 😎✌️ 
 
 I'm a Software Engineer, currently working at [Explosion](https://explosion.ai/). 💥 <br/>
 I'm also a member of [encode](https://www.encode.io/), which I help mainly maintaining [uvicorn](https://github.com/encode/uvicorn).
