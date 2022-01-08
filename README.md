@@ -35,4 +35,8 @@ Oh! And if you use `VSCode` and `FastAPI`, you might have already used some plug
 - [FastAPI debugger](https://github.com/microsoft/vscode-python/pull/14606)
 - [FastAPI docker](https://github.com/microsoft/vscode-docker/pull/2740)
 
-![Marcelo Trylesinski's github stats](https://github-readme-stats.vercel.app/api?username=Kludex&show_icons=true&theme=merko)
+<h3 align="center">If you like my work, consider buying me a coffee 😄</h3>
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/kludex"><img src="https://github.com/appcraftstudio/buymeacoffee/raw/master/Images/snapshot-bmc-button.png" alt="Buy Me A Coffee" width="300"></a>
+</p>
