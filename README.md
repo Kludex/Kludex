@@ -34,9 +34,3 @@ There are some different types of projects here, as well:
 Oh! And if you use `VSCode` and `FastAPI`, you might have already used some plugins that I have worked on:
 - [FastAPI debugger](https://github.com/microsoft/vscode-python/pull/14606)
 - [FastAPI docker](https://github.com/microsoft/vscode-docker/pull/2740)
-
-<h3 align="center">If you like my work, consider buying me a coffee 😄</h3>
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/kludex"><img src="https://github.com/appcraftstudio/buymeacoffee/raw/master/Images/snapshot-bmc-button.png" alt="Buy Me A Coffee" width="300"></a>
-</p>
