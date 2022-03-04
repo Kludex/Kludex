@@ -5,7 +5,7 @@ Welcome to my profile! :smile:
 My name is Marcelo, but you can call me "Marceloooooooo" in French, "Marce" in Spanish, and "MarTCHHHelo" in Italiano.<br/>
 But I'm originally from Brazil! 😎✌️ 
 
-I'm currently working at [reciTAL](https://recital.ai/) as Lead Developer. <br/>
+I'm currently working at [Deliverect](https://deliverect.com) as Software Engineer. <br/>
 I'm also a member of [encode](https://www.encode.io/), which I help mainly maintaining [uvicorn](https://github.com/encode/uvicorn) and [starlette](https://github.com/encode/starlette).
 
 I have also many projects related to [FastAPI](https://fastapi.tiangolo.com/fastapi-people/#experts):
