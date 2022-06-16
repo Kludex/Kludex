@@ -23,6 +23,7 @@ I have also many projects related to [FastAPI](https://fastapi.tiangolo.com/fast
 - [ASGI Logger](https://github.com/Kludex/asgi-logger) - Access logger for ASGI servers! 🎉
 
 There are some different types of projects here, as well:
+- [No Optional](https://github.com/Kludex/no-optional) - Replace `Optional[T]` by `Union[T, None]` 👀
 - [Uvicorn Browser](https://github.com/Kludex/uvicorn-browser) - Browser reload with uvicorn! ✨
 - [Awesome Textual](https://github.com/Kludex/awesome-textual) - A curated list of awesome things related to Pydantic! ✨
 - [Awesome Pydantic](https://github.com/Kludex/awesome-pydantic) - A curated list of awesome things related to Pydantic! 🌪️
