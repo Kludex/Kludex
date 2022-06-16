@@ -14,7 +14,6 @@ I have also many projects related to [FastAPI](https://fastapi.tiangolo.com/fast
 - [FastAPI Template](https://github.com/Kludex/fastapi-template) - Get ready to work with the best FastAPI template! ~ WIP
 - [FastAPI Responses](https://github.com/Kludex/fastapi-responses) - Find HTTPExceptions and turn them into documented responses! :tada:
 - [FastAPI Health](https://github.com/Kludex/fastapi-health) - Implement the Health Check API pattern on your FastAPI application! :rocket:
-- [FastAPI Packages](https://github.com/Kludex/fastapi-packages) - List of FastAPI packages weekly automatically updated! :tada:
 - [FastAPI Docker Debug](https://github.com/Kludex/fastapi-docker-debug) - Need to debug your FastAPI application with Docker? Don't worry! :sunglasses:
 - [FastAPI Skaffold Debug](https://github.com/Kludex/fastapi-skaffold-debug) - Need to debug your FastAPI application with Skaffold? Don't worry! :sunglasses:
 - [Manage FastAPI](https://github.com/ycd/manage-fastapi) - :rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy.
