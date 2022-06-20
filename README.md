@@ -24,7 +24,6 @@ I have also many projects related to [FastAPI](https://fastapi.tiangolo.com/fast
 There are some different types of projects here, as well:
 - [No Optional](https://github.com/Kludex/no-optional) - Replace `Optional[T]` by `Union[T, None]` 👀
 - [Uvicorn Browser](https://github.com/Kludex/uvicorn-browser) - Browser reload with uvicorn! ✨
-- [Awesome Textual](https://github.com/Kludex/awesome-textual) - A curated list of awesome things related to Pydantic! ✨
 - [Awesome Pydantic](https://github.com/Kludex/awesome-pydantic) - A curated list of awesome things related to Pydantic! 🌪️
 - [rsort](https://github.com/Kludex/rsort) - Sort Python requirements with ease! :tada: ~ Highly inspired on sort-requirements 🤓
 - [Simple Timing](https://github.com/Kludex/simpletiming) - Time your functions in a smart way! ~ Highly Inspired on codetiming :tada:
