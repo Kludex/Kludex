@@ -20,6 +20,7 @@ I have also many projects related to [FastAPI](https://fastapi.tiangolo.com/fast
 - [Server Ping](https://github.com/Kludex/serverping) - FastAPI Application to ping a server and send its status via Slack! :tada:
 - [BaseSQLModel](https://github.com/Kludex/basesqlmodel) - A very simple CRUD class for SQLModel! ✨
 - [ASGI Logger](https://github.com/Kludex/asgi-logger) - Access logger for ASGI servers! 🎉
+- [Flake8-FastAPI](https://github.com/Kludex/flake8-fastapi) - A flake8 plugin that helps you avoid simple FastAPI mistakes. 🤓
 
 There are some different types of projects here, as well:
 - [No Optional](https://github.com/Kludex/no-optional) - Replace `Optional[T]` by `Union[T, None]` 👀
