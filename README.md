@@ -23,6 +23,7 @@ I have also many projects related to [FastAPI](https://fastapi.tiangolo.com/fast
 - [Flake8-FastAPI](https://github.com/Kludex/flake8-fastapi) - A flake8 plugin that helps you avoid simple FastAPI mistakes. 🤓
 
 There are some different types of projects here, as well:
+- [promypy](https://github.com/Kludex/promypy) - Progressive type annotation without regression! 🚀
 - [No Optional](https://github.com/Kludex/no-optional) - Replace `Optional[T]` by `Union[T, None]` 👀
 - [Uvicorn Browser](https://github.com/Kludex/uvicorn-browser) - Browser reload with uvicorn! ✨
 - [Awesome Pydantic](https://github.com/Kludex/awesome-pydantic) - A curated list of awesome things related to Pydantic! 🌪️
