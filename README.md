@@ -3,7 +3,7 @@
 # Hi there! 👋
 
 My name is **Marcelo**, but you can call me "Marceloooooooo" in French, "Marce" in Spanish, and "MarTCHHHelo" in Italiano.<br/>
-But I'm originally from Brazil! 😎✌️
+But I'm originally from <b style="color:green">Brazil</b>! 😎✌️
 
 I'm a maintainer of [**uvicorn**](https://github.com/encode/uvicorn) and [**starlette**](https://github.com/encode/starlette).
 
