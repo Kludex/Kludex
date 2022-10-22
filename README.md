@@ -1,6 +1,8 @@
+![](https://komarev.com/ghpvc/?username=Kludex&color=brightgreen)
+
 # Hi there! 👋
 
-My name is Marcelo, but you can call me "Marceloooooooo" in French, "Marce" in Spanish, and "MarTCHHHelo" in Italiano.<br/>
+My name is **Marcelo**, but you can call me "Marceloooooooo" in French, "Marce" in Spanish, and "MarTCHHHelo" in Italiano.<br/>
 But I'm originally from Brazil! 😎✌️
 
 I'm currently working at [Deliverect](https://deliverect.com) as Software Engineer. <br/>
