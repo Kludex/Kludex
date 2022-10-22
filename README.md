@@ -1,7 +1,5 @@
 # Hi there! 👋
 
-Welcome to my profile! :smile:
-
 My name is Marcelo, but you can call me "Marceloooooooo" in French, "Marce" in Spanish, and "MarTCHHHelo" in Italiano.<br/>
 But I'm originally from Brazil! 😎✌️
 
