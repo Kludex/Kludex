@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Kludex&color=brightgreen)
 
+For **business**, reach me out via email or [**LinkedIn**](https://www.linkedin.com/in/marcelotryle/).
+
 # Hi there! 👋
 
 My name is **Marcelo**, but you can call me "Marceloooooooo" in French, "Marce" in Spanish, and "MarTCHHHelo" in Italiano.<br/>
