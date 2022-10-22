@@ -5,9 +5,7 @@
 My name is **Marcelo**, but you can call me "Marceloooooooo" in French, "Marce" in Spanish, and "MarTCHHHelo" in Italiano.<br/>
 But I'm originally from Brazil! 😎✌️
 
-I'm currently working at [Deliverect](https://deliverect.com) as Software Engineer. <br/>
-
-I'm also a maintainer of [uvicorn](https://github.com/encode/uvicorn) and [starlette](https://github.com/encode/starlette).
+I'm a maintainer of [**uvicorn**](https://github.com/encode/uvicorn) and [**starlette**](https://github.com/encode/starlette).
 
 I have also many projects related to [FastAPI](https://fastapi.tiangolo.com/fastapi-people/#experts):
 
