@@ -15,7 +15,6 @@ I have also many projects related to [FastAPI](https://fastapi.tiangolo.com/fast
 |---|---|
 | [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects)    | List of FastAPI projects! :sunglasses: :rocket:  |
 | [FastAPI Microservices](https://github.com/Kludex/fastapi-microservices)   |  Fully Python async FastAPI project! :rocket: |
-| [FastAPI Template](https://github.com/Kludex/fastapi-template)   | Get ready to work with the best FastAPI template! ~ WIP  |
 | [FastAPI Responses](https://github.com/Kludex/fastapi-responses) | Find HTTPExceptions and turn them into documented responses! :tada: |
 | [FastAPI Health](https://github.com/Kludex/fastapi-health) | Implement the Health Check API pattern on your FastAPI application! :rocket: |
 | [FastAPI Docker Debug](https://github.com/Kludex/fastapi-docker-debug) | Need to debug your FastAPI application with Docker? Don't worry! :sunglasses: |
