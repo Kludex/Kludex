@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Kludex&color=brightgreen)
 
-For **business**, reach me out via email or [**LinkedIn**](https://www.linkedin.com/in/marcelotryle/).
+For **consultancy**, reach me out via email or [**LinkedIn**](https://www.linkedin.com/in/marcelotryle/).
 
 # Hi there! 👋
 
