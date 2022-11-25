@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Kludex&color=brightgreen)
-
 For **consultancy**, reach me out via email or [**LinkedIn**](https://www.linkedin.com/in/marcelotryle/).
 
 # Hi there! 👋
