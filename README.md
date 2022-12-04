@@ -33,7 +33,7 @@ There are some different types of projects here, as well:
 | [Awesome Pydantic](https://github.com/Kludex/awesome-pydantic) | A curated list of awesome things related to Pydantic! 🌪️ |
 | [rsort](https://github.com/Kludex/rsort) | Sort Python requirements with ease! :tada: ~ Highly inspired on sort-requirements 🤓 |
 | [Simple Timing](https://github.com/Kludex/simpletiming) | Time your functions in a smart way! ~ Highly Inspired on codetiming :tada: |
-| [Python Template](https://github.com/Kludex/python-template) | A template for Python packages that makes you go from :hot_face: to :sunglasses:! |
+| [**Python Template**](https://github.com/Kludex/python-template) | A template for Python packages that makes you go from :hot_face: to :sunglasses:! |
 
 Oh! And if you use `VSCode` and `FastAPI`, you might have already used some plugins that I have worked on:
 
