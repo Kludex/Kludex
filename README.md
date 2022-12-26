@@ -35,8 +35,8 @@ There are some different types of projects here as well:
 
 Oh! And if you use `VSCode` and `FastAPI`, you might have already used some plugins that I have worked on:
 
-- [FastAPI debugger](https://github.com/microsoft/vscode-python/pull/14606)
-- [FastAPI docker](https://github.com/microsoft/vscode-docker/pull/2740)
+- **[Debug a FastAPI Application]**: Launch and debug a FastAPI web application! :tada:
+- **[Debug a FastAPI Application on Docker]**: The same as above, but on Docker! 👀
 
 [Uvicorn]: https://github.com/encode/uvicorn
 [Starlette]: https://github.com/encode/starlette
@@ -48,3 +48,5 @@ Oh! And if you use `VSCode` and `FastAPI`, you might have already used some plug
 [BaseSQLModel]: https://github.com/Kludex/basesqlmodel
 [Flake8 FastAPI]: https://github.com/Kludex/flake8-fastapi
 [Python Template]: https://github.com/Kludex/python-template
+[Debug a FastAPI Application]: https://github.com/microsoft/vscode-python/pull/14606
+[Debug a FastAPI Application on Docker]: https://github.com/microsoft/vscode-docker/pull/2740
