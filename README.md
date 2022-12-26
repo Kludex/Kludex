@@ -12,6 +12,7 @@ I have also many projects related to [FastAPI](https://fastapi.tiangolo.com/fast
 |  Project   | Description  |
 |---|---|
 | **[FastAPI Health]** | Implement the Health Check API pattern on your FastAPI application! :rocket: |
+| **[Bump TestClient]** | Replace Starlette's TestClient from `requests` to `httpx`! :tada: |
 | [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects)    | List of FastAPI projects! :sunglasses: :rocket:  |
 | [FastAPI Microservices](https://github.com/Kludex/fastapi-microservices)   |  Fully Python async FastAPI project! :rocket: |
 | [FastAPI Responses](https://github.com/Kludex/fastapi-responses) | Find HTTPExceptions and turn them into documented responses! :tada: |
@@ -39,4 +40,5 @@ Oh! And if you use `VSCode` and `FastAPI`, you might have already used some plug
 - [FastAPI docker](https://github.com/microsoft/vscode-docker/pull/2740)
 
 [FastAPI Health]: https://github.com/Kludex/fastapi-health
+[Bump TestClient]: https://github.com/Kludex/bump-testclient
 [BaseSQLModel]: https://github.com/Kludex/basesqlmodel
