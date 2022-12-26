@@ -11,14 +11,14 @@ I have also many projects related to [FastAPI](https://fastapi.tiangolo.com/fast
 
 |  Project   | Description  |
 |---|---|
-| [**FastAPI Health**](https://github.com/Kludex/fastapi-health) | Implement the Health Check API pattern on your FastAPI application! :rocket: |
+| **[FastAPI Health]** | Implement the Health Check API pattern on your FastAPI application! :rocket: |
 | [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects)    | List of FastAPI projects! :sunglasses: :rocket:  |
 | [FastAPI Microservices](https://github.com/Kludex/fastapi-microservices)   |  Fully Python async FastAPI project! :rocket: |
 | [FastAPI Responses](https://github.com/Kludex/fastapi-responses) | Find HTTPExceptions and turn them into documented responses! :tada: |
 | [FastAPI Skaffold Debug](https://github.com/Kludex/fastapi-skaffold-debug) | Need to debug your FastAPI application with Skaffold? Don't worry! :sunglasses: |
 | [Manage FastAPI](https://github.com/ycd/manage-fastapi) | :rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy. |
 | [Server Ping](https://github.com/Kludex/serverping) | FastAPI Application to ping a server and send its status via Slack! :tada: |
-| [BaseSQLModel](https://github.com/Kludex/basesqlmodel) | A very simple CRUD class for SQLModel! ✨ |
+| **[BaseSQLModel]** | A very simple CRUD class for SQLModel! ✨ |
 | [ASGI Logger](https://github.com/Kludex/asgi-logger) | Access logger for ASGI servers! 🎉 |
 | [Flake8-FastAPI](https://github.com/Kludex/flake8-fastapi) | A flake8 plugin that helps you avoid simple FastAPI mistakes. 🤓 |
 
@@ -38,3 +38,6 @@ Oh! And if you use `VSCode` and `FastAPI`, you might have already used some plug
 
 - [FastAPI debugger](https://github.com/microsoft/vscode-python/pull/14606)
 - [FastAPI docker](https://github.com/microsoft/vscode-docker/pull/2740)
+
+[FastAPI Health]: https://github.com/Kludex/fastapi-health
+[BaseSQLModel]: https://github.com/Kludex/basesqlmodel
