@@ -17,7 +17,6 @@ I have also many projects related to [FastAPI](https://fastapi.tiangolo.com/fast
 | **[Manage FastAPI]** | :rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy. |
 | [FastAPI Microservices](https://github.com/Kludex/fastapi-microservices)   |  Fully Python async FastAPI project! :rocket: |
 | [FastAPI Responses](https://github.com/Kludex/fastapi-responses) | Find HTTPExceptions and turn them into documented responses! :tada: |
-| [Server Ping](https://github.com/Kludex/serverping) | FastAPI Application to ping a server and send its status via Slack! :tada: |
 | **[BaseSQLModel]** | A very simple CRUD class for SQLModel! ✨ |
 | [ASGI Logger](https://github.com/Kludex/asgi-logger) | Access logger for ASGI servers! 🎉 |
 | [Flake8-FastAPI](https://github.com/Kludex/flake8-fastapi) | A flake8 plugin that helps you avoid simple FastAPI mistakes. 🤓 |
