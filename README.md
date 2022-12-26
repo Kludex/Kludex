@@ -5,7 +5,7 @@ For **consultancy**, reach me out via email or [**LinkedIn**](https://www.linked
 My name is **Marcelo**, but you can call me "Marceloooooooo" in French, "Marce" in Spanish, and "MarTCHHHelo" in Italiano.<br/>
 But I'm originally from <b style="color:green">Brazil</b>! 😎✌️
 
-I'm a maintainer of **[Uvicorn]** and **[Starlette]**, and also considered a **[FastAPI Expert]**.
+I'm a maintainer of **[Uvicorn]** and **[Starlette]**, and I'm also considered a **[FastAPI Expert]**.
 
 I have projects related to **FastAPI**:
 
