@@ -5,9 +5,9 @@ For **consultancy**, reach me out via email or [**LinkedIn**](https://www.linked
 My name is **Marcelo**, but you can call me "Marceloooooooo" in French, "Marce" in Spanish, and "MarTCHHHelo" in Italiano.<br/>
 But I'm originally from <b style="color:green">Brazil</b>! 😎✌️
 
-I'm a maintainer of [**uvicorn**](https://github.com/encode/uvicorn) and [**starlette**](https://github.com/encode/starlette).
+I'm a maintainer of **[Uvicorn]** and **[Starlette]**, and also considered a **[FastAPI Expert]**.
 
-I have also many projects related to [FastAPI](https://fastapi.tiangolo.com/fastapi-people/#experts):
+I have projects related to **FastAPI**:
 
 |  Project   | Description  |
 |---|---|
@@ -21,7 +21,7 @@ I have also many projects related to [FastAPI](https://fastapi.tiangolo.com/fast
 | [ASGI Logger](https://github.com/Kludex/asgi-logger) | Access logger for ASGI servers! 🎉 |
 | **[Flake8 FastAPI]** | A flake8 plugin that helps you avoid simple FastAPI mistakes. 🤓 |
 
-There are some different types of projects here, as well:
+There are some different types of projects here as well:
 
 |  Project   | Description  |
 |---|---|
@@ -31,16 +31,20 @@ There are some different types of projects here, as well:
 | [Awesome Pydantic](https://github.com/Kludex/awesome-pydantic) | A curated list of awesome things related to Pydantic! 🌪️ |
 | [rsort](https://github.com/Kludex/rsort) | Sort Python requirements with ease! :tada: ~ Highly inspired on sort-requirements 🤓 |
 | [Simple Timing](https://github.com/Kludex/simpletiming) | Time your functions in a smart way! ~ Highly Inspired on codetiming :tada: |
-| [**Python Template**](https://github.com/Kludex/python-template) | A template for Python packages that makes you go from :hot_face: to :sunglasses:! |
+| **[Python Template]** | A template for Python packages that makes you go from :hot_face: to :sunglasses:! |
 
 Oh! And if you use `VSCode` and `FastAPI`, you might have already used some plugins that I have worked on:
 
 - [FastAPI debugger](https://github.com/microsoft/vscode-python/pull/14606)
 - [FastAPI docker](https://github.com/microsoft/vscode-docker/pull/2740)
 
+[Uvicorn]: https://github.com/encode/uvicorn
+[Starlette]: https://github.com/encode/starlette
+[FastAPI Expert]: https://fastapi.tiangolo.com/fastapi-people/#experts
 [FastAPI Health]: https://github.com/Kludex/fastapi-health
 [Bump TestClient]: https://github.com/Kludex/bump-testclient
 [Starlette TestClient]: https://github.com/Kludex/starlette-testclient
 [Manage FastAPI]: https://github.com/ycd/manage-fastapi
 [BaseSQLModel]: https://github.com/Kludex/basesqlmodel
 [Flake8 FastAPI]: https://github.com/Kludex/flake8-fastapi
+[Python Template]: https://github.com/Kludex/python-template
