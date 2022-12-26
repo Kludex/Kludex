@@ -14,9 +14,9 @@ I have also many projects related to [FastAPI](https://fastapi.tiangolo.com/fast
 | **[FastAPI Health]** | Implement the Health Check API pattern on your FastAPI application! :rocket: |
 | **[Bump TestClient]** | Replace Starlette's TestClient from `requests` to `httpx`! :tada: |
 | **[Starlette TestClient]** | A backport of Starlette's TestClient using `requests`! :rewind: |
+| **[Manage FastAPI]** | :rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy. |
 | [FastAPI Microservices](https://github.com/Kludex/fastapi-microservices)   |  Fully Python async FastAPI project! :rocket: |
 | [FastAPI Responses](https://github.com/Kludex/fastapi-responses) | Find HTTPExceptions and turn them into documented responses! :tada: |
-| [Manage FastAPI](https://github.com/ycd/manage-fastapi) | :rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy. |
 | [Server Ping](https://github.com/Kludex/serverping) | FastAPI Application to ping a server and send its status via Slack! :tada: |
 | **[BaseSQLModel]** | A very simple CRUD class for SQLModel! ✨ |
 | [ASGI Logger](https://github.com/Kludex/asgi-logger) | Access logger for ASGI servers! 🎉 |
@@ -42,4 +42,5 @@ Oh! And if you use `VSCode` and `FastAPI`, you might have already used some plug
 [FastAPI Health]: https://github.com/Kludex/fastapi-health
 [Bump TestClient]: https://github.com/Kludex/bump-testclient
 [Starlette TestClient]: https://github.com/Kludex/starlette-testclient
+[Manage FastAPI]: https://github.com/ycd/manage-fastapi
 [BaseSQLModel]: https://github.com/Kludex/basesqlmodel
