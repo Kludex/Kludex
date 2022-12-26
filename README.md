@@ -15,7 +15,6 @@ I have also many projects related to [FastAPI](https://fastapi.tiangolo.com/fast
 | [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects)    | List of FastAPI projects! :sunglasses: :rocket:  |
 | [FastAPI Microservices](https://github.com/Kludex/fastapi-microservices)   |  Fully Python async FastAPI project! :rocket: |
 | [FastAPI Responses](https://github.com/Kludex/fastapi-responses) | Find HTTPExceptions and turn them into documented responses! :tada: |
-| [FastAPI Skaffold Debug](https://github.com/Kludex/fastapi-skaffold-debug) | Need to debug your FastAPI application with Skaffold? Don't worry! :sunglasses: |
 | [Manage FastAPI](https://github.com/ycd/manage-fastapi) | :rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy. |
 | [Server Ping](https://github.com/Kludex/serverping) | FastAPI Application to ping a server and send its status via Slack! :tada: |
 | **[BaseSQLModel]** | A very simple CRUD class for SQLModel! ✨ |
