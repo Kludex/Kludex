@@ -14,7 +14,6 @@ I have also many projects related to [FastAPI](https://fastapi.tiangolo.com/fast
 | **[FastAPI Health]** | Implement the Health Check API pattern on your FastAPI application! :rocket: |
 | **[Bump TestClient]** | Replace Starlette's TestClient from `requests` to `httpx`! :tada: |
 | **[Starlette TestClient]** | A backport of Starlette's TestClient using `requests`! :rewind: |
-| [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects)    | List of FastAPI projects! :sunglasses: :rocket:  |
 | [FastAPI Microservices](https://github.com/Kludex/fastapi-microservices)   |  Fully Python async FastAPI project! :rocket: |
 | [FastAPI Responses](https://github.com/Kludex/fastapi-responses) | Find HTTPExceptions and turn them into documented responses! :tada: |
 | [Manage FastAPI](https://github.com/ycd/manage-fastapi) | :rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy. |
