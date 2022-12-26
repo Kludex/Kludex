@@ -19,7 +19,7 @@ I have also many projects related to [FastAPI](https://fastapi.tiangolo.com/fast
 | [FastAPI Responses](https://github.com/Kludex/fastapi-responses) | Find HTTPExceptions and turn them into documented responses! :tada: |
 | **[BaseSQLModel]** | A very simple CRUD class for SQLModel! ✨ |
 | [ASGI Logger](https://github.com/Kludex/asgi-logger) | Access logger for ASGI servers! 🎉 |
-| [Flake8-FastAPI](https://github.com/Kludex/flake8-fastapi) | A flake8 plugin that helps you avoid simple FastAPI mistakes. 🤓 |
+| **[Flake8 FastAPI]** | A flake8 plugin that helps you avoid simple FastAPI mistakes. 🤓 |
 
 There are some different types of projects here, as well:
 
@@ -43,3 +43,4 @@ Oh! And if you use `VSCode` and `FastAPI`, you might have already used some plug
 [Starlette TestClient]: https://github.com/Kludex/starlette-testclient
 [Manage FastAPI]: https://github.com/ycd/manage-fastapi
 [BaseSQLModel]: https://github.com/Kludex/basesqlmodel
+[Flake8 FastAPI]: https://github.com/Kludex/flake8-fastapi
