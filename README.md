@@ -20,7 +20,7 @@ I have projects related to **FastAPI**:
 | **[BaseSQLModel]** | A very simple CRUD class for SQLModel! ✨ |
 | [ASGI Logger](https://github.com/Kludex/asgi-logger) | Access logger for ASGI servers! 🎉 |
 | **[Flake8 FastAPI]** | A flake8 plugin that helps you avoid simple FastAPI mistakes. 🤓 |
-| **[Uvicorn Exp]** | This is a fork of uvicorn to implement experimental features! :eyes: |
+| **[Uvicorn Experimental]** | This is a fork of uvicorn to implement experimental features! :eyes: |
 
 There are some different types of projects here as well:
 
@@ -48,7 +48,7 @@ Oh! And if you use `VSCode` and `FastAPI`, you might have already used some plug
 [Manage FastAPI]: https://github.com/ycd/manage-fastapi
 [BaseSQLModel]: https://github.com/Kludex/basesqlmodel
 [Flake8 FastAPI]: https://github.com/Kludex/flake8-fastapi
-[Uvicorn Exp]: https://github.com/Kludex/uvicorn-exp
+[Uvicorn Experimental]: https://github.com/Kludex/uvicorn-exp
 [Python Template]: https://github.com/Kludex/python-template
 [Debug a FastAPI Application]: https://github.com/microsoft/vscode-python/pull/14606
 [Debug a FastAPI Application on Docker]: https://github.com/microsoft/vscode-docker/pull/2740
