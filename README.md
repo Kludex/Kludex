@@ -27,8 +27,8 @@ There are some different types of projects here as well:
 
 |  Project   | Description  |
 |---|---|
-| [promypy](https://github.com/Kludex/promypy) | Progressive type annotation without regression! 🚀 |
-| [No Optional](https://github.com/Kludex/no-optional) | Replace `Optional[T]` by `Union[T, None]` 👀 |
+| **[promypy]** | Progressive type annotation without regression! 🚀 |
+| **[No Optional]** | Replace `Optional[T]` by `Union[T, None]` 👀 |
 | [Uvicorn Browser](https://github.com/Kludex/uvicorn-browser) | Browser reload with uvicorn! ✨ |
 | [Awesome Pydantic](https://github.com/Kludex/awesome-pydantic) | A curated list of awesome things related to Pydantic! 🌪️ |
 | [rsort](https://github.com/Kludex/rsort) | Sort Python requirements with ease! :tada: ~ Highly inspired on sort-requirements 🤓 |
@@ -54,3 +54,5 @@ Oh! And if you use `VSCode` and `FastAPI`, you might have already used some plug
 [Python Template]: https://github.com/Kludex/python-template
 [Debug a FastAPI Application]: https://github.com/microsoft/vscode-python/pull/14606
 [Debug a FastAPI Application on Docker]: https://github.com/microsoft/vscode-docker/pull/2740
+[No Optional]: https://github.com/Kludex/no-optional
+[promypy]: https://github.com/Kludex/promypy
