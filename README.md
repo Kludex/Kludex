@@ -30,8 +30,9 @@ There are some different types of projects here as well:
 | **[promypy]** | Progressive type annotation without regression! 🚀 |
 | **[No Optional]** | Replace `Optional[T]` by `Union[T, None]` 👀 |
 | [Uvicorn Browser](https://github.com/Kludex/uvicorn-browser) | Browser reload with uvicorn! ✨ |
-| [Awesome Pydantic](https://github.com/Kludex/awesome-pydantic) | A curated list of awesome things related to Pydantic! 🌪️ |
-| [rsort](https://github.com/Kludex/rsort) | Sort Python requirements with ease! :tada: ~ Highly inspired on sort-requirements 🤓 |
+| [Awesome Python Codemods] | A curated list of awesome things related to Python Codemods! ✨ |
+| [Awesome Pydantic] | A curated list of awesome things related to Pydantic! 🌪️ |
+| [rsort] | Sort Python requirements with ease! :tada: ~ Highly inspired on sort-requirements 🤓 |
 | [Simple Timing](https://github.com/Kludex/simpletiming) | Time your functions in a smart way! ~ Highly Inspired on codetiming :tada: |
 | **[Python Template]** | A template for Python packages that makes you go from :hot_face: to :sunglasses:! |
 
@@ -56,3 +57,6 @@ Oh! And if you use `VSCode` and `FastAPI`, you might have already used some plug
 [Debug a FastAPI Application on Docker]: https://github.com/microsoft/vscode-docker/pull/2740
 [No Optional]: https://github.com/Kludex/no-optional
 [promypy]: https://github.com/Kludex/promypy
+[Awesome Python Codemods]: https://github.com/Kludex/awesome-python-codemods
+[Awesome Pydantic]: https://github.com/Kludex/awesome-pydantic
+[rsort]: https://github.com/Kludex/rsort
