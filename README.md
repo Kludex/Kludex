@@ -30,7 +30,7 @@ There are some different types of projects here as well:
 | **[promypy]** | Progressive type annotation without regression! 🚀 |
 | **[No Optional]** | Replace `Optional[T]` by `Union[T, None]` 👀 |
 | [Uvicorn Browser](https://github.com/Kludex/uvicorn-browser) | Browser reload with uvicorn! ✨ |
-| [Awesome Python Codemods] | A curated list of awesome things related to Python Codemods! ✨ |
+| **[Awesome Python Codemods]** | A curated list of awesome things related to Python Codemods! ✨ |
 | [Awesome Pydantic] | A curated list of awesome things related to Pydantic! 🌪️ |
 | [rsort] | Sort Python requirements with ease! :tada: ~ Highly inspired on sort-requirements 🤓 |
 | [Simple Timing](https://github.com/Kludex/simpletiming) | Time your functions in a smart way! ~ Highly Inspired on codetiming :tada: |
