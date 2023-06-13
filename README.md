@@ -78,3 +78,4 @@ Oh! And if you use `VSCode` and `FastAPI`, you might have already used some plug
 [ASGI Logger]: https://github.com/Kludex/asgi-logger
 [Uvicorn Browser]: https://github.com/Kludex/uvicorn-browser
 [Simple Timing]: https://github.com/Kludex/simpletiming
+[Pydantic]: https://pydantic.dev/
