@@ -2,7 +2,7 @@
 
 My name is **Marcelo**, and I'm from 🇧🇷 (and half 🇮🇹)! 😎
 
-I'm a maintainer of **[Uvicorn]** and **[Starlette]**, I'm considered a **[FastAPI Expert]**. 🤓
+I'm a maintainer of **[Uvicorn]** and **[Starlette]**, and I'm also considered a **[FastAPI Expert]**. 🤓
 
 I'm currently working at **[Pydantic]**. 🚀
 
