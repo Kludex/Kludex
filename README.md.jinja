@@ -82,8 +82,9 @@ This section is an updated list of issues that I'm looking for help. 🤓
 
 | 🎁 Project   | 📜 Issue |
 |---|---|
-| **[encode/broadcaster]** | [Use `pyproject.toml` with hatch instead of `setup.py`] |
-
+{%- for item in table %}
+| **[{{ item.project }}]** | [{{ item.title }}] |
+{% endfor %}
 
 [ASGI Logger]: https://github.com/Kludex/asgi-logger
 [Awesome Pydantic]: https://github.com/Kludex/awesome-pydantic
@@ -122,5 +123,7 @@ This section is an updated list of issues that I'm looking for help. 🤓
 [Uvicorn Browser]: https://github.com/Kludex/uvicorn-browser
 [Uvicorn Experimental]: https://github.com/Kludex/uvicorn-exp
 [Uvicorn Worker]: https://github.com/Kludex/uvicorn-worker
-[encode/broadcaster]: https://github.com/encode/broadcaster
-[Use `pyproject.toml` with hatch instead of `setup.py`]: https://github.com/encode/broadcaster/issues/93
+{%- for item in table %}
+[{{ item.project }}]: https://github.com/{{ item.project }}
+[{{ item.title }}]: https://github.com/{{ item.project }}/issues/{{ item.issue }}
+{% endfor %}
