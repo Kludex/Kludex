@@ -72,6 +72,20 @@ Oh! And if you use `VSCode` and `FastAPI`, you might have already used some plug
 - **[Debug a FastAPI Application]**: Launch and debug a FastAPI web application! :tada:
 - **[Debug a FastAPI Application on Docker]**: The same as above, but on Docker! 👀
 
+### I want to contribute!
+
+Do you want to start on open source but you don't know where to start?
+
+That's great! I'm always looking for help on my projects. 🤩
+
+This section is an updated list of issues that I'm looking for help. 🤓
+
+| 🎁 Project   | 📜 Issue |
+|---|---|
+{%- for item in table %}
+| **[{{ item.project }}]** | [{{ item.title }}] |
+{% endfor %}
+
 [ASGI Logger]: https://github.com/Kludex/asgi-logger
 [Awesome Pydantic]: https://github.com/Kludex/awesome-pydantic
 [Awesome Python Codemods]: https://github.com/Kludex/awesome-python-codemods
@@ -109,3 +123,7 @@ Oh! And if you use `VSCode` and `FastAPI`, you might have already used some plug
 [Uvicorn Browser]: https://github.com/Kludex/uvicorn-browser
 [Uvicorn Experimental]: https://github.com/Kludex/uvicorn-exp
 [Uvicorn Worker]: https://github.com/Kludex/uvicorn-worker
+{%- for item in table %}
+[{{ item.project }}]: https://github.com/{{ item.project }}
+[{{ item.title }}]: https://github.com/{{ item.project }}/issues/{{ item.issue }}
+{% endfor %}
