@@ -1,4 +1,6 @@
 - project: encode/broadcaster
   issue: 93
+- project: encode/broadcaster
+  issue: 94
 - project: pydantic/pydantic-extra-types
   issue: 64
