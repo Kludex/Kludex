@@ -84,6 +84,8 @@ This section is an updated list of issues that _you_ can help. 🤓
 |---|---|
 | **[encode/broadcaster]** | [Use `pyproject.toml` with hatch instead of `setup.py`] |
 
+| **[pydantic/pydantic-extra-types]** | [Support pandas types] |
+
 
 [ASGI Logger]: https://github.com/Kludex/asgi-logger
 [Awesome Pydantic]: https://github.com/Kludex/awesome-pydantic
@@ -124,3 +126,6 @@ This section is an updated list of issues that _you_ can help. 🤓
 [Uvicorn Worker]: https://github.com/Kludex/uvicorn-worker
 [encode/broadcaster]: https://github.com/encode/broadcaster
 [Use `pyproject.toml` with hatch instead of `setup.py`]: https://github.com/encode/broadcaster/issues/93
+
+[pydantic/pydantic-extra-types]: https://github.com/pydantic/pydantic-extra-types
+[Support pandas types]: https://github.com/pydantic/pydantic-extra-types/issues/64
