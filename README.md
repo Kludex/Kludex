@@ -78,7 +78,7 @@ Do you want to start on open source but you don't know where to start?
 
 That's great! I'm always looking for help on my projects. 🤩
 
-This section is an updated list of issues that I'm looking for help. 🤓
+This section is an updated list of issues that _you_ can help. 🤓
 
 | 🎁 Project   | 📜 Issue |
 |---|---|
