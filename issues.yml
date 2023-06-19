@@ -1,5 +1,8 @@
-- project: pydantic/pydantic-extra-types
+- assignee: Kludex
   issue: 31
+  project: pydantic/pydantic-extra-types
+  state: open
+  title: Support numpy types
 - assignee: null
   issue: 8
   project: Kludex/fastapi-responses
