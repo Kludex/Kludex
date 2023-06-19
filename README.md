@@ -82,6 +82,7 @@ This section is an updated list of issues that _you_ can help. 🤓
 
 | 🎁 Project   | 📜 Issue |
 |---|---|
+| **[Kludex/fastapi-responses]** | [Use AST instead of tokens] |
 | **[encode/broadcaster]** | [Move configuration from `setup.cfg` to `pyproject.toml`] |
 | **[pydantic/pydantic-extra-types]** | [Support pandas types] |
 
@@ -133,6 +134,8 @@ This section is an updated list of issues that _you_ can help. 🤓
 [Uvicorn Browser]: https://github.com/Kludex/uvicorn-browser
 [Uvicorn Experimental]: https://github.com/Kludex/uvicorn-exp
 [Uvicorn Worker]: https://github.com/Kludex/uvicorn-worker
+[Kludex/fastapi-responses]: https://github.com/Kludex/fastapi-responses
+[Use AST instead of tokens]: https://github.com/Kludex/fastapi-responses/issues/8
 [encode/broadcaster]: https://github.com/encode/broadcaster
 [Move configuration from `setup.cfg` to `pyproject.toml`]: https://github.com/encode/broadcaster/issues/97
 [encode/broadcaster]: https://github.com/encode/broadcaster

@@ -1,5 +1,8 @@
-- project: Kludex/fastapi-responses
+- assignee: null
   issue: 8
+  project: Kludex/fastapi-responses
+  state: open
+  title: Use AST instead of tokens
 - assignee: null
   issue: 97
   project: encode/broadcaster
