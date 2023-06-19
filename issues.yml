@@ -1,3 +1,5 @@
+- project: fastapi-responses
+  issue: 8
 - assignee: null
   issue: 97
   project: encode/broadcaster
