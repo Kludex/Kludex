@@ -89,8 +89,8 @@ This section is an updated list of issues that _you_ can help. 🤓
 
 | 🎁 Project   | 📜 Issue | 🤩 Author |
 |---|---|---|
-| **[encode/broadcaster]** | [Use `pyproject.toml` with hatch instead of `setup.py`] | @sumit-158 |
-| **[encode/broadcaster]** | [Drop support for Python 3.7] | @anabasalo |
+| **[encode/broadcaster]** | [Use `pyproject.toml` with hatch instead of `setup.py`] | [@sumit-158] |
+| **[encode/broadcaster]** | [Drop support for Python 3.7] | [@anabasalo] |
 
 </details>
 
@@ -134,7 +134,9 @@ This section is an updated list of issues that _you_ can help. 🤓
 [Uvicorn Worker]: https://github.com/Kludex/uvicorn-worker
 [encode/broadcaster]: https://github.com/encode/broadcaster
 [Use `pyproject.toml` with hatch instead of `setup.py`]: https://github.com/encode/broadcaster/issues/93
+[@sumit-158]: https://github.com/sumit-158
 [encode/broadcaster]: https://github.com/encode/broadcaster
 [Drop support for Python 3.7]: https://github.com/encode/broadcaster/issues/94
+[@anabasalo]: https://github.com/anabasalo
 [pydantic/pydantic-extra-types]: https://github.com/pydantic/pydantic-extra-types
 [Support pandas types]: https://github.com/pydantic/pydantic-extra-types/issues/64
