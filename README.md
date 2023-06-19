@@ -82,9 +82,18 @@ This section is an updated list of issues that _you_ can help. 🤓
 
 | 🎁 Project   | 📜 Issue |
 |---|---|
-| **[encode/broadcaster]** | [Use `pyproject.toml` with hatch instead of `setup.py`] |
-| **[encode/broadcaster]** | [Drop support for Python 3.7] |
 | **[pydantic/pydantic-extra-types]** | [Support pandas types] |
+
+<details>
+    <summary>Check who helped me already!</summary>
+
+| 🎁 Project   | 📜 Issue | 🤩 Author |
+|---|---|---|
+| **[encode/broadcaster]** | [Use `pyproject.toml` with hatch instead of `setup.py`] | **@sumit-158** |
+| **[encode/broadcaster]** | [Drop support for Python 3.7] | **@anabasalo** |
+
+</details>
+
 
 [ASGI Logger]: https://github.com/Kludex/asgi-logger
 [Awesome Pydantic]: https://github.com/Kludex/awesome-pydantic

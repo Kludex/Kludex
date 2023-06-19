@@ -82,9 +82,21 @@ This section is an updated list of issues that _you_ can help. 🤓
 
 | 🎁 Project   | 📜 Issue |
 |---|---|
-{%- for item in table %}
+{%- for item in table if not item.assignee %}
 | **[{{ item.project }}]** | [{{ item.title }}] |
 {%- endfor %}
+
+<details>
+    <summary>Check who helped me already!</summary>
+
+| 🎁 Project   | 📜 Issue | 🤩 Author |
+|---|---|---|
+{%- for item in table if item.assignee %}
+| **[{{ item.project }}]** | [{{ item.title }}] | **@{{ item.assignee }}** |
+{%- endfor %}
+
+</details>
+
 
 [ASGI Logger]: https://github.com/Kludex/asgi-logger
 [Awesome Pydantic]: https://github.com/Kludex/awesome-pydantic

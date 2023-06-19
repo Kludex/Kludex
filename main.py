@@ -1,6 +1,6 @@
 import os
 from pathlib import Path
-from typing import List
+from typing import List, Dict, Any
 
 import yaml
 from jinja2 import Environment, select_autoescape, FileSystemLoader
@@ -16,17 +16,11 @@ class Issue(BaseModel):
     project: str
     issue: int
     title: str | None = None
+    state: str | None = None
+    assignee: str | None = None
 
 
 Issues = RootModel[List[Issue]]
-
-
-def write_readme(table: List[Issue]) -> None:
-    env = Environment(loader=FileSystemLoader("."), autoescape=select_autoescape())
-    template = env.get_template("README.md.jinja")
-
-    with Path("README.md").open("w") as f:
-        f.write(template.render(table=table))
 
 
 def gather_issues() -> Issues:
@@ -35,7 +29,15 @@ def gather_issues() -> Issues:
     return issues
 
 
-def rewrite_issues(issues: List[Issue]):
+def rewrite_readme(table: List[Issue]) -> None:
+    env = Environment(loader=FileSystemLoader("."), autoescape=select_autoescape())
+    template = env.get_template("README.md.jinja")
+
+    with Path("README.md").open("w") as f:
+        f.write(template.render(table=table))
+
+
+def rewrite_issues(issues: List[Dict[str, Any]]) -> None:
     with Path("issues.yml").open("w") as f:
         yaml.safe_dump(issues, f)
 
@@ -43,16 +45,16 @@ def rewrite_issues(issues: List[Issue]):
 if __name__ == "__main__":
     issues = gather_issues()
 
-    table: List[Issue] = []
     for issue in issues.root:
+        # Skip if issue was already closed
+        if issue.state == "closed" and issue.assignee is not None:
+            continue
+
         repo = g.get_repo(issue.project)
         gh_issue = repo.get_issue(issue.issue)
         issue.title = gh_issue.title
+        issue.state = gh_issue.state
+        issue.assignee = gh_issue.assignee.login if gh_issue.assignee else None
 
-        if gh_issue.state == "open":
-            table.append(issue)
-
-    if len(table) != len(issues.root):
-        rewrite_issues(table)
-
-    write_readme(table)
+    rewrite_issues(issues.model_dump())  # type: ignore
+    rewrite_readme(issues.root)
