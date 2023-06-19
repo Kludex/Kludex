@@ -82,7 +82,7 @@ This section is an updated list of issues that _you_ can help. 🤓
 
 | 🎁 Project   | 📜 Issue |
 |---|---|
-{%- for item in table if not item.assignee %}
+{%- for item in table if item.state == 'open' %}
 | **[{{ item.project }}]** | [{{ item.title }}] |
 {%- endfor %}
 
@@ -91,7 +91,7 @@ This section is an updated list of issues that _you_ can help. 🤓
 
 | 🎁 Project   | 📜 Issue | 🤩 Author |
 |---|---|---|
-{%- for item in table if item.assignee %}
+{%- for item in table if item.state == 'closed' %}
 | **[{{ item.project }}]** | [{{ item.title }}] | [@{{ item.assignee }}] |
 {%- endfor %}
 
@@ -138,7 +138,7 @@ This section is an updated list of issues that _you_ can help. 🤓
 {%- for item in table %}
 [{{ item.project }}]: https://github.com/{{ item.project }}
 [{{ item.title }}]: https://github.com/{{ item.project }}/issues/{{ item.issue }}
-{%- if item.assignee %}
+{%- if item.state == 'closed' %}
 [@{{ item.assignee }}]: https://github.com/{{ item.assignee }}
 {%- endif %}
 {%- endfor %}

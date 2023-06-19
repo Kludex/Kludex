@@ -1,8 +1,3 @@
-- assignee: Kludex
-  issue: 31
-  project: pydantic/pydantic-extra-types
-  state: open
-  title: Support numpy types
 - assignee: null
   issue: 8
   project: Kludex/fastapi-responses
@@ -23,6 +18,11 @@
   project: encode/broadcaster
   state: closed
   title: Drop support for Python 3.7
+- assignee: Kludex
+  issue: 31
+  project: pydantic/pydantic-extra-types
+  state: open
+  title: Support numpy types
 - assignee: null
   issue: 64
   project: pydantic/pydantic-extra-types

@@ -29,7 +29,7 @@ def gather_issues() -> Issues:
     return issues
 
 
-def rewrite_readme(table: List[Issue]) -> None:
+def rewrite_readme(table: List[Dict[str, Any]]) -> None:
     env = Environment(loader=FileSystemLoader("."), autoescape=select_autoescape())
     template = env.get_template("README.md.jinja")
 
@@ -56,5 +56,7 @@ if __name__ == "__main__":
         issue.state = gh_issue.state
         issue.assignee = gh_issue.assignee.login if gh_issue.assignee else None
 
-    rewrite_issues(issues.model_dump())  # type: ignore
-    rewrite_readme(issues.root)
+    issue_list: list[dict[str, Any]] = issues.model_dump()  # type: ignore
+    sorted_issues = sorted(issue_list, key=lambda x: x["project"])
+    rewrite_issues(sorted_issues)
+    rewrite_readme(sorted_issues)
