@@ -1,6 +1,15 @@
-- project: encode/broadcaster
+- assignee: sumit-158
   issue: 93
-- project: encode/broadcaster
+  project: encode/broadcaster
+  state: closed
+  title: Use `pyproject.toml` with hatch instead of `setup.py`
+- assignee: anabasalo
   issue: 94
-- project: pydantic/pydantic-extra-types
+  project: encode/broadcaster
+  state: closed
+  title: Drop support for Python 3.7
+- assignee: null
   issue: 64
+  project: pydantic/pydantic-extra-types
+  state: open
+  title: Support pandas types
