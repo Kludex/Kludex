@@ -92,7 +92,7 @@ This section is an updated list of issues that _you_ can help. 🤓
 | 🎁 Project   | 📜 Issue | 🤩 Author |
 |---|---|---|
 {%- for item in table if item.assignee %}
-| **[{{ item.project }}]** | [{{ item.title }}] | @{{ item.assignee }} |
+| **[{{ item.project }}]** | [{{ item.title }}] | [@{{ item.assignee }}] |
 {%- endfor %}
 
 </details>
@@ -138,4 +138,7 @@ This section is an updated list of issues that _you_ can help. 🤓
 {%- for item in table %}
 [{{ item.project }}]: https://github.com/{{ item.project }}
 [{{ item.title }}]: https://github.com/{{ item.project }}/issues/{{ item.issue }}
+{%- if item.assignee %}
+[@{{ item.assignee }}]: https://github.com/{{ item.assignee }}
+{%- endif %}
 {%- endfor %}
