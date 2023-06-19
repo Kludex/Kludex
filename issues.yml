@@ -1,3 +1,5 @@
+- project: pydantic/pydantic-extra-types
+  issue: 31
 - assignee: null
   issue: 8
   project: Kludex/fastapi-responses
