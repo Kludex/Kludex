@@ -89,8 +89,8 @@ This section is an updated list of issues that _you_ can help. 🤓
 
 | 🎁 Project   | 📜 Issue | 🤩 Author |
 |---|---|---|
-| **[encode/broadcaster]** | [Use `pyproject.toml` with hatch instead of `setup.py`] | **@sumit-158** |
-| **[encode/broadcaster]** | [Drop support for Python 3.7] | **@anabasalo** |
+| **[encode/broadcaster]** | [Use `pyproject.toml` with hatch instead of `setup.py`] | @sumit-158 |
+| **[encode/broadcaster]** | [Drop support for Python 3.7] | @anabasalo |
 
 </details>
 
