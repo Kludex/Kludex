@@ -3,7 +3,7 @@
   project: Kludex/fastapi-responses
   state: open
   title: Use AST instead of tokens
-- assignee: null
+- assignee: sumit-158
   issue: 97
   project: encode/broadcaster
   state: open
