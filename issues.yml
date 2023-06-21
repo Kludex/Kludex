@@ -1,5 +1,3 @@
-- project: encode/uvicorn
-  issue: 2012
 - assignee: null
   issue: 8
   project: Kludex/fastapi-responses
@@ -20,6 +18,11 @@
   project: encode/broadcaster
   state: closed
   title: Drop support for Python 3.7
+- assignee: null
+  issue: 2012
+  project: encode/uvicorn
+  state: open
+  title: Use `httpx` as client on WebSocket tests
 - assignee: Kludex
   issue: 31
   project: pydantic/pydantic-extra-types
