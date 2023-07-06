@@ -6,7 +6,7 @@
 - assignee: sumit-158
   issue: 97
   project: encode/broadcaster
-  state: open
+  state: closed
   title: Move configuration from `setup.cfg` to `pyproject.toml`
 - assignee: sumit-158
   issue: 93

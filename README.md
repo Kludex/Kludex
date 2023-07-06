@@ -83,7 +83,6 @@ This section is an updated list of issues that _you_ can help. 🤓
 | 🎁 Project   | 📜 Issue |
 |---|---|
 | **[Kludex/fastapi-responses]** | [Use AST instead of tokens] |
-| **[encode/broadcaster]** | [Move configuration from `setup.cfg` to `pyproject.toml`] |
 | **[encode/uvicorn]** | [Use `httpx` as client on WebSocket tests] |
 | **[pydantic/pydantic-extra-types]** | [Support numpy types] |
 | **[pydantic/pydantic-extra-types]** | [Support pandas types] |
@@ -93,6 +92,7 @@ This section is an updated list of issues that _you_ can help. 🤓
 
 | 🎁 Project   | 📜 Issue | 🤩 Author |
 |---|---|---|
+| **[encode/broadcaster]** | [Move configuration from `setup.cfg` to `pyproject.toml`] | [@sumit-158] |
 | **[encode/broadcaster]** | [Use `pyproject.toml` with hatch instead of `setup.py`] | [@sumit-158] |
 | **[encode/broadcaster]** | [Drop support for Python 3.7] | [@anabasalo] |
 
@@ -140,6 +140,7 @@ This section is an updated list of issues that _you_ can help. 🤓
 [Use AST instead of tokens]: https://github.com/Kludex/fastapi-responses/issues/8
 [encode/broadcaster]: https://github.com/encode/broadcaster
 [Move configuration from `setup.cfg` to `pyproject.toml`]: https://github.com/encode/broadcaster/issues/97
+[@sumit-158]: https://github.com/sumit-158
 [encode/broadcaster]: https://github.com/encode/broadcaster
 [Use `pyproject.toml` with hatch instead of `setup.py`]: https://github.com/encode/broadcaster/issues/93
 [@sumit-158]: https://github.com/sumit-158
