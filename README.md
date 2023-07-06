@@ -84,8 +84,6 @@ This section is an updated list of issues that _you_ can help. 🤓
 |---|---|
 | **[Kludex/fastapi-responses]** | [Use AST instead of tokens] |
 | **[encode/uvicorn]** | [Use `httpx` as client on WebSocket tests] |
-| **[pydantic/pydantic-extra-types]** | [Support numpy types] |
-| **[pydantic/pydantic-extra-types]** | [Support pandas types] |
 
 <details>
     <summary>Check who helped me already!</summary>
@@ -149,7 +147,3 @@ This section is an updated list of issues that _you_ can help. 🤓
 [@anabasalo]: https://github.com/anabasalo
 [encode/uvicorn]: https://github.com/encode/uvicorn
 [Use `httpx` as client on WebSocket tests]: https://github.com/encode/uvicorn/issues/2012
-[pydantic/pydantic-extra-types]: https://github.com/pydantic/pydantic-extra-types
-[Support numpy types]: https://github.com/pydantic/pydantic-extra-types/issues/31
-[pydantic/pydantic-extra-types]: https://github.com/pydantic/pydantic-extra-types
-[Support pandas types]: https://github.com/pydantic/pydantic-extra-types/issues/64
