@@ -23,13 +23,3 @@
   project: encode/uvicorn
   state: open
   title: Use `httpx` as client on WebSocket tests
-- assignee: Kludex
-  issue: 31
-  project: pydantic/pydantic-extra-types
-  state: open
-  title: Support numpy types
-- assignee: null
-  issue: 64
-  project: pydantic/pydantic-extra-types
-  state: open
-  title: Support pandas types
