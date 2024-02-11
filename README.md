@@ -21,7 +21,6 @@ This section is an updated list of issues that _you_ can help. 🤓
 | 🎁 Project   | 📜 Issue |
 |---|---|
 | **[Kludex/fastapi-responses]** | [Use AST instead of tokens] |
-| **[encode/uvicorn]** | [Use `httpx` as client on WebSocket tests] |
 
 <details>
     <summary>Check who helped me already!</summary>
@@ -31,6 +30,7 @@ This section is an updated list of issues that _you_ can help. 🤓
 | **[encode/broadcaster]** | [Move configuration from `setup.cfg` to `pyproject.toml`] | [@sumit-158] |
 | **[encode/broadcaster]** | [Use `pyproject.toml` with hatch instead of `setup.py`] | [@sumit-158] |
 | **[encode/broadcaster]** | [Drop support for Python 3.7] | [@anabasalo] |
+| **[encode/uvicorn]** | [Use `httpx` as client on WebSocket tests] | [@None] |
 
 </details>
 
@@ -85,3 +85,4 @@ This section is an updated list of issues that _you_ can help. 🤓
 [@anabasalo]: https://github.com/anabasalo
 [encode/uvicorn]: https://github.com/encode/uvicorn
 [Use `httpx` as client on WebSocket tests]: https://github.com/encode/uvicorn/issues/2012
+[@None]: https://github.com/None
