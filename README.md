@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is **Marcelo**, and I'm from 🇧🇷 (and half 🇮🇹)! 😎
+My name is **Marcelo**, and I'm from 🇧🇷 (half 🇺🇾, half 🇮🇹)! 😎
 
 I'm a maintainer of **[Uvicorn]** and **[Starlette]**, and I'm also considered a **[FastAPI Expert]**. 🤓
 
