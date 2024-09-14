@@ -10,6 +10,9 @@ I also have a [YouTube channel], where I talk about Python, FastAPI, and other s
 
 Besides that, I also speak at [Python conferences]! 🎤
 
+Other packages I maintain:
+- [Awesome ASGI](https://github.com/florimondmanca/awesome-asgi)
+
 [Starlette]: https://github.com/encode/starlette
 [Uvicorn]: https://github.com/encode/uvicorn
 [FastAPI Expert]: https://fastapi.tiangolo.com/fastapi-people/#experts
