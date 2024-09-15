@@ -16,6 +16,7 @@ Besides that, I also speak at [Python conferences]! 🎤
 |---------|--------------|-------------|---------------------|
 | [starlette] | ![GitHub stars][starlette-stars] | ![GitHub issues][starlette-issues] | ![GitHub pull requests][starlette-prs] |
 | [uvicorn] | ![GitHub stars][uvicorn-stars] | ![GitHub issues][uvicorn-issues] | ![GitHub pull requests][uvicorn-prs] |
+| [fastapi-tips] | ![GitHub stars][fastapi-tips-stars] | ![GitHub issues][fastapi-tips-issues] | ![GitHub pull requests][fastapi-tips-prs] |
 | [awesome-asgi] | ![GitHub stars][awesome-asgi-stars] | ![GitHub issues][awesome-asgi-issues] | ![GitHub pull requests][awesome-asgi-prs] |
 | [awesome-pydantic] | ![GitHub stars][awesome-pydantic-stars] | ![GitHub issues][awesome-pydantic-issues] | ![GitHub pull requests][awesome-pydantic-prs] |
 
@@ -28,6 +29,11 @@ Besides that, I also speak at [Python conferences]! 🎤
 [uvicorn-stars]: https://img.shields.io/github/stars/encode/uvicorn?style=social
 [uvicorn-issues]: https://img.shields.io/github/issues/encode/uvicorn
 [uvicorn-prs]: https://img.shields.io/github/issues-pr/encode/uvicorn
+
+[fastapi-tips]: https://github.com/kludex/fastapi-tips
+[fastapi-tips-stars]: https://img.shields.io/github/stars/kludex/fastapi-tips?style=social
+[fastapi-tips-issues]: https://img.shields.io/github/issues/kludex/fastapi-tips
+[fastapi-tips-prs]: https://img.shields.io/github/issues-pr/kludex/fastapi-tips
 
 [awesome-asgi]: https://github.com/florimondmanca/awesome-asgi
 [awesome-asgi-stars]: https://img.shields.io/github/stars/florimondmanca/awesome-asgi?style=social
