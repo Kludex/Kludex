@@ -19,6 +19,7 @@ Besides that, I also speak at [Python conferences]! 🎤
 | [fastapi-tips] | ![GitHub stars][fastapi-tips-stars] | ![GitHub issues][fastapi-tips-issues] | ![GitHub pull requests][fastapi-tips-prs] |
 | [awesome-asgi] | ![GitHub stars][awesome-asgi-stars] | ![GitHub issues][awesome-asgi-issues] | ![GitHub pull requests][awesome-asgi-prs] |
 | [awesome-pydantic] | ![GitHub stars][awesome-pydantic-stars] | ![GitHub issues][awesome-pydantic-issues] | ![GitHub pull requests][awesome-pydantic-prs] |
+| [python-multipart] | ![GitHub stars][python-multipart-stars] | ![GitHub issues][python-multipart-issues] | ![GitHub pull requests][python-multipart-prs] |
 
 [starlette]: https://github.com/encode/starlette
 [starlette-stars]: https://img.shields.io/github/stars/encode/starlette?style=social
@@ -44,6 +45,11 @@ Besides that, I also speak at [Python conferences]! 🎤
 [awesome-pydantic-stars]: https://img.shields.io/github/stars/Kludex/awesome-pydantic?style=social
 [awesome-pydantic-issues]: https://img.shields.io/github/issues/Kludex/awesome-pydantic
 [awesome-pydantic-prs]: https://img.shields.io/github/issues-pr/Kludex/awesome-pydantic
+
+[python-multipart]: https://github.com/Kludex/python-multipart
+[python-multipart-stars]: https://img.shields.io/github/stars/Kludex/python-multipart?style=social
+[python-multipart-issues]: https://img.shields.io/github/issues/Kludex/python-multipart
+[python-multipart-prs]: https://img.shields.io/github/issues-pr/Kludex/python-multipart
 
 [Starlette]: https://github.com/encode/starlette
 [Uvicorn]: https://github.com/encode/uvicorn
