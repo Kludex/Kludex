@@ -10,26 +10,33 @@ I also have a [YouTube channel], where I talk about Python, FastAPI, and other s
 
 Besides that, I also speak at [Python conferences]! 🎤
 
-### I maintain...
+### Packages I maintain...
 
-| Project | GitHub Stars | Open Issues | Open Pull Requests |
-|---------|--------------|-------------|---------------------|
-| [starlette] | ![GitHub stars][starlette-stars] | ![GitHub issues][starlette-issues] | ![GitHub pull requests][starlette-prs] |
-| [uvicorn] | ![GitHub stars][uvicorn-stars] | ![GitHub issues][uvicorn-issues] | ![GitHub pull requests][uvicorn-prs] |
-| [fastapi-tips] | ![GitHub stars][fastapi-tips-stars] | ![GitHub issues][fastapi-tips-issues] | ![GitHub pull requests][fastapi-tips-prs] |
-| [awesome-asgi] | ![GitHub stars][awesome-asgi-stars] | ![GitHub issues][awesome-asgi-issues] | ![GitHub pull requests][awesome-asgi-prs] |
-| [awesome-pydantic] | ![GitHub stars][awesome-pydantic-stars] | ![GitHub issues][awesome-pydantic-issues] | ![GitHub pull requests][awesome-pydantic-prs] |
-| [python-multipart] | ![GitHub stars][python-multipart-stars] | ![GitHub issues][python-multipart-issues] | ![GitHub pull requests][python-multipart-prs] |
+| Project | GitHub Stars | PyPI Downloads |
+|---------|--------------|-------------|
+| [starlette] | ![GitHub stars][starlette-stars] | ![PyPI downloads][starlette-downloads] |
+| [uvicorn] | ![GitHub stars][uvicorn-stars] | ![PyPI downloads][uvicorn-downloads] |
+| [python-multipart] | ![GitHub stars][python-multipart-stars] | ![PyPI downloads][python-multipart-downloads] |
 
 [starlette]: https://github.com/encode/starlette
 [starlette-stars]: https://img.shields.io/github/stars/encode/starlette?style=social
-[starlette-issues]: https://img.shields.io/github/issues/encode/starlette
-[starlette-prs]: https://img.shields.io/github/issues-pr/encode/starlette
+[starlette-downloads]: https://img.shields.io/pypi/dm/starlette
 
 [uvicorn]: https://github.com/encode/uvicorn
 [uvicorn-stars]: https://img.shields.io/github/stars/encode/uvicorn?style=social
-[uvicorn-issues]: https://img.shields.io/github/issues/encode/uvicorn
-[uvicorn-prs]: https://img.shields.io/github/issues-pr/encode/uvicorn
+[uvicorn-downloads]: https://img.shields.io/pypi/dm/uvicorn
+
+[python-multipart]: https://github.com/Kludex/python-multipart
+[python-multipart-stars]: https://img.shields.io/github/stars/Kludex/python-multipart?style=social
+[python-multipart-downloads]: https://img.shields.io/pypi/dm/python-multipart
+
+### Other projects I contribute to...
+
+| Project | GitHub Stars | Open Issues | Open Pull Requests |
+|---------|--------------|-------------|---------------------|
+| [fastapi-tips] | ![GitHub stars][fastapi-tips-stars] | ![GitHub issues][fastapi-tips-issues] | ![GitHub pull requests][fastapi-tips-prs] |
+| [awesome-asgi] | ![GitHub stars][awesome-asgi-stars] | ![GitHub issues][awesome-asgi-issues] | ![GitHub pull requests][awesome-asgi-prs] |
+| [awesome-pydantic] | ![GitHub stars][awesome-pydantic-stars] | ![GitHub issues][awesome-pydantic-issues] | ![GitHub pull requests][awesome-pydantic-prs] |
 
 [fastapi-tips]: https://github.com/kludex/fastapi-tips
 [fastapi-tips-stars]: https://img.shields.io/github/stars/kludex/fastapi-tips?style=social
@@ -46,10 +53,6 @@ Besides that, I also speak at [Python conferences]! 🎤
 [awesome-pydantic-issues]: https://img.shields.io/github/issues/Kludex/awesome-pydantic
 [awesome-pydantic-prs]: https://img.shields.io/github/issues-pr/Kludex/awesome-pydantic
 
-[python-multipart]: https://github.com/Kludex/python-multipart
-[python-multipart-stars]: https://img.shields.io/github/stars/Kludex/python-multipart?style=social
-[python-multipart-issues]: https://img.shields.io/github/issues/Kludex/python-multipart
-[python-multipart-prs]: https://img.shields.io/github/issues-pr/Kludex/python-multipart
 
 [Starlette]: https://github.com/encode/starlette
 [Uvicorn]: https://github.com/encode/uvicorn
