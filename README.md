@@ -14,24 +14,30 @@ Besides that, I also speak at [Python conferences]! 🎤
 
 | Project | GitHub Stars | Open Issues | Open Pull Requests |
 |---------|--------------|-------------|---------------------|
-| [awesome-asgi][awesome-asgi-repo] | ![GitHub stars][awesome-asgi-stars] | ![GitHub issues][awesome-asgi-issues] | ![GitHub pull requests][awesome-asgi-prs] |
-| [starlette][starlette-repo] | ![GitHub stars][starlette-stars] | ![GitHub issues][starlette-issues] | ![GitHub pull requests][starlette-prs] |
-| [uvicorn][uvicorn-repo] | ![GitHub stars][uvicorn-stars] | ![GitHub issues][uvicorn-issues] | ![GitHub pull requests][uvicorn-prs] |
+| [starlette] | ![GitHub stars][starlette-stars] | ![GitHub issues][starlette-issues] | ![GitHub pull requests][starlette-prs] |
+| [uvicorn] | ![GitHub stars][uvicorn-stars] | ![GitHub issues][uvicorn-issues] | ![GitHub pull requests][uvicorn-prs] |
+| [awesome-asgi] | ![GitHub stars][awesome-asgi-stars] | ![GitHub issues][awesome-asgi-issues] | ![GitHub pull requests][awesome-asgi-prs] |
+| [awesome-pydantic] | ![GitHub stars][awesome-pydantic-stars] | ![GitHub issues][awesome-pydantic-issues] | ![GitHub pull requests][awesome-pydantic-prs] |
 
-[awesome-asgi-repo]: https://github.com/florimondmanca/awesome-asgi
-[awesome-asgi-stars]: https://img.shields.io/github/stars/florimondmanca/awesome-asgi?style=social
-[awesome-asgi-issues]: https://img.shields.io/github/issues/florimondmanca/awesome-asgi
-[awesome-asgi-prs]: https://img.shields.io/github/issues-pr/florimondmanca/awesome-asgi
-
-[starlette-repo]: https://github.com/encode/starlette
+[starlette]: https://github.com/encode/starlette
 [starlette-stars]: https://img.shields.io/github/stars/encode/starlette?style=social
 [starlette-issues]: https://img.shields.io/github/issues/encode/starlette
 [starlette-prs]: https://img.shields.io/github/issues-pr/encode/starlette
 
-[uvicorn-repo]: https://github.com/encode/uvicorn
+[uvicorn]: https://github.com/encode/uvicorn
 [uvicorn-stars]: https://img.shields.io/github/stars/encode/uvicorn?style=social
 [uvicorn-issues]: https://img.shields.io/github/issues/encode/uvicorn
 [uvicorn-prs]: https://img.shields.io/github/issues-pr/encode/uvicorn
+
+[awesome-asgi]: https://github.com/florimondmanca/awesome-asgi
+[awesome-asgi-stars]: https://img.shields.io/github/stars/florimondmanca/awesome-asgi?style=social
+[awesome-asgi-issues]: https://img.shields.io/github/issues/florimondmanca/awesome-asgi
+[awesome-asgi-prs]: https://img.shields.io/github/issues-pr/florimondmanca/awesome-asgi
+
+[awesome-pydantic]: https://github.com/Kludex/awesome-pydantic
+[awesome-pydantic-stars]: https://img.shields.io/github/stars/Kludex/awesome-pydantic?style=social
+[awesome-pydantic-issues]: https://img.shields.io/github/issues/Kludex/awesome-pydantic
+[awesome-pydantic-prs]: https://img.shields.io/github/issues-pr/Kludex/awesome-pydantic
 
 [Starlette]: https://github.com/encode/starlette
 [Uvicorn]: https://github.com/encode/uvicorn
