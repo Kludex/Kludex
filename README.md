@@ -10,6 +10,9 @@ I also have a [YouTube channel], where I talk about Python, FastAPI, and other s
 
 Besides that, I also speak at [Python conferences]! 🎤
 
+> [!TIP]
+> I have a Discord, if you want to talk about the packages I maintain, or anything else. Join [here](https://discord.gg/SWU73HffbV)! 
+
 ### Packages I maintain...
 
 | Project | GitHub Stars | PyPI Downloads |
