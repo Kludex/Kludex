@@ -19,6 +19,7 @@ Besides that, I also speak at [Python conferences]! 🎤
 |---------|--------------|-------------|
 | [starlette] | ![GitHub stars][starlette-stars] | ![PyPI downloads][starlette-downloads] |
 | [uvicorn] | ![GitHub stars][uvicorn-stars] | ![PyPI downloads][uvicorn-downloads] |
+| [uvicorn-worker] | ![GitHub stars][uvicorn-worker-stars] | ![PyPI downloads][uvicorn-worker-downloads] |
 | [python-multipart] | ![GitHub stars][python-multipart-stars] | ![PyPI downloads][python-multipart-downloads] |
 
 [starlette]: https://github.com/encode/starlette
@@ -28,6 +29,10 @@ Besides that, I also speak at [Python conferences]! 🎤
 [uvicorn]: https://github.com/encode/uvicorn
 [uvicorn-stars]: https://img.shields.io/github/stars/encode/uvicorn?style=social
 [uvicorn-downloads]: https://img.shields.io/pypi/dm/uvicorn
+
+[uvicorn-worker]: https://github.com/Kludex/uvicorn-worker
+[uvicorn-worker-stars]: https://img.shields.io/github/stars/Kludex/uvicorn-worker?style=social
+[uvicorn-worker-downloads]: https://img.shields.io/pypi/dm/uvicorn-worker
 
 [python-multipart]: https://github.com/Kludex/python-multipart
 [python-multipart-stars]: https://img.shields.io/github/stars/Kludex/python-multipart?style=social
