@@ -19,8 +19,9 @@ Besides that, I also speak at [Python conferences]! 🎤
 |---------|--------------|-------------|
 | [starlette] | ![GitHub stars][starlette-stars] | ![PyPI downloads][starlette-downloads] |
 | [uvicorn] | ![GitHub stars][uvicorn-stars] | ![PyPI downloads][uvicorn-downloads] |
-| [uvicorn-worker] | ![GitHub stars][uvicorn-worker-stars] | ![PyPI downloads][uvicorn-worker-downloads] |
 | [python-multipart] | ![GitHub stars][python-multipart-stars] | ![PyPI downloads][python-multipart-downloads] |
+| [uvicorn-worker] | ![GitHub stars][uvicorn-worker-stars] | ![PyPI downloads][uvicorn-worker-downloads] |
+| [mangum] | ![GitHub stars][mangum-stars] | ![PyPI downloads][mangum-downloads] |
 
 [starlette]: https://github.com/encode/starlette
 [starlette-stars]: https://img.shields.io/github/stars/encode/starlette?style=social
@@ -30,13 +31,17 @@ Besides that, I also speak at [Python conferences]! 🎤
 [uvicorn-stars]: https://img.shields.io/github/stars/encode/uvicorn?style=social
 [uvicorn-downloads]: https://img.shields.io/pypi/dm/uvicorn
 
+[python-multipart]: https://github.com/Kludex/python-multipart
+[python-multipart-stars]: https://img.shields.io/github/stars/Kludex/python-multipart?style=social
+[python-multipart-downloads]: https://img.shields.io/pypi/dm/python-multipart
+
 [uvicorn-worker]: https://github.com/Kludex/uvicorn-worker
 [uvicorn-worker-stars]: https://img.shields.io/github/stars/Kludex/uvicorn-worker?style=social
 [uvicorn-worker-downloads]: https://img.shields.io/pypi/dm/uvicorn-worker
 
-[python-multipart]: https://github.com/Kludex/python-multipart
-[python-multipart-stars]: https://img.shields.io/github/stars/Kludex/python-multipart?style=social
-[python-multipart-downloads]: https://img.shields.io/pypi/dm/python-multipart
+[mangum]: https://github.com/Kludex/mangum
+[uvicorn-stars]: https://img.shields.io/github/stars/Kludex/mangum?style=social
+[uvicorn-downloads]: https://img.shields.io/pypi/dm/mangum
 
 ### Other projects I contribute to...
 
