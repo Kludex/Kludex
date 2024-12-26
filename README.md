@@ -40,8 +40,8 @@ Besides that, I also speak at [Python conferences]! 🎤
 [uvicorn-worker-downloads]: https://img.shields.io/pypi/dm/uvicorn-worker
 
 [mangum]: https://github.com/Kludex/mangum
-[uvicorn-stars]: https://img.shields.io/github/stars/Kludex/mangum?style=social
-[uvicorn-downloads]: https://img.shields.io/pypi/dm/mangum
+[mangum-stars]: https://img.shields.io/github/stars/Kludex/mangum?style=social
+[mangum-downloads]: https://img.shields.io/pypi/dm/mangum
 
 ### Other projects I contribute to...
 
