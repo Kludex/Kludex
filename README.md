@@ -23,11 +23,11 @@ Besides that, I also speak at [Python conferences]! 🎤
 | [mangum] | ![GitHub stars][mangum-stars] | ![PyPI downloads][mangum-downloads] |
 | [uvicorn-worker] | ![GitHub stars][uvicorn-worker-stars] | ![PyPI downloads][uvicorn-worker-downloads] |
 
-[starlette]: https://github.com/encode/starlette
+[starlette]: https://github.com/Kludex/starlette
 [starlette-stars]: https://img.shields.io/github/stars/encode/starlette?style=social
 [starlette-downloads]: https://img.shields.io/pypi/dm/starlette
 
-[uvicorn]: https://github.com/encode/uvicorn
+[uvicorn]: https://github.com/Kludex/uvicorn
 [uvicorn-stars]: https://img.shields.io/github/stars/encode/uvicorn?style=social
 [uvicorn-downloads]: https://img.shields.io/pypi/dm/uvicorn
 
