@@ -19,9 +19,14 @@ Besides that, I also speak at [Python conferences]! 🎤
 |---------|--------------|-------------|
 | [starlette] | ![GitHub stars][starlette-stars] | ![PyPI downloads][starlette-downloads] |
 | [uvicorn] | ![GitHub stars][uvicorn-stars] | ![PyPI downloads][uvicorn-downloads] |
+| [httpx2] | ![GitHub stars][httpx2-stars] | ![PyPI downloads][httpx2-downloads] |
 | [python-multipart] | ![GitHub stars][python-multipart-stars] | ![PyPI downloads][python-multipart-downloads] |
 | [mangum] | ![GitHub stars][mangum-stars] | ![PyPI downloads][mangum-downloads] |
 | [uvicorn-worker] | ![GitHub stars][uvicorn-worker-stars] | ![PyPI downloads][uvicorn-worker-downloads] |
+| [cassetter] | ![GitHub stars][cassetter-stars] | ![PyPI downloads][cassetter-downloads] |
+| [zttp] | ![GitHub stars][zttp-stars] | ![PyPI downloads][zttp-downloads] |
+| [zuvloop] | ![GitHub stars][zuvloop-stars] | ![PyPI downloads][zuvloop-downloads] |
+| [pgtask] | ![GitHub stars][pgtask-stars] | ![PyPI downloads][pgtask-downloads] |
 
 [starlette]: https://github.com/Kludex/starlette
 [starlette-stars]: https://img.shields.io/github/stars/encode/starlette?style=social
@@ -30,6 +35,10 @@ Besides that, I also speak at [Python conferences]! 🎤
 [uvicorn]: https://github.com/Kludex/uvicorn
 [uvicorn-stars]: https://img.shields.io/github/stars/encode/uvicorn?style=social
 [uvicorn-downloads]: https://img.shields.io/pypi/dm/uvicorn
+
+[httpx2]: https://github.com/pydantic/httpx2
+[httpx2-stars]: https://img.shields.io/github/stars/pydantic/httpx2?style=social
+[httpx2-downloads]: https://img.shields.io/pypi/dm/httpx2
 
 [python-multipart]: https://github.com/Kludex/python-multipart
 [python-multipart-stars]: https://img.shields.io/github/stars/Kludex/python-multipart?style=social
@@ -42,6 +51,22 @@ Besides that, I also speak at [Python conferences]! 🎤
 [uvicorn-worker]: https://github.com/Kludex/uvicorn-worker
 [uvicorn-worker-stars]: https://img.shields.io/github/stars/Kludex/uvicorn-worker?style=social
 [uvicorn-worker-downloads]: https://img.shields.io/pypi/dm/uvicorn-worker
+
+[cassetter]: https://github.com/Kludex/cassetter
+[cassetter-stars]: https://img.shields.io/github/stars/Kludex/cassetter?style=social
+[cassetter-downloads]: https://img.shields.io/pypi/dm/cassetter
+
+[zttp]: https://github.com/Kludex/zttp
+[zttp-stars]: https://img.shields.io/github/stars/Kludex/zttp?style=social
+[zttp-downloads]: https://img.shields.io/pypi/dm/zttp
+
+[zuvloop]: https://github.com/Kludex/zuvloop
+[zuvloop-stars]: https://img.shields.io/github/stars/Kludex/zuvloop?style=social
+[zuvloop-downloads]: https://img.shields.io/pypi/dm/zuvloop
+
+[pgtask]: https://github.com/Kludex/pgtask
+[pgtask-stars]: https://img.shields.io/github/stars/Kludex/pgtask?style=social
+[pgtask-downloads]: https://img.shields.io/pypi/dm/pgtask
 
 ### Other projects I contribute to...
 
